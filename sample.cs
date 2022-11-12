@@ -6,7 +6,7 @@ void main(char[] args)
     Console.WriteLine(c);
     Console.WriteLine("press any key to exit");
     // added comment by user devops user
-    // added comments again
+    // added comments again byt devops user
     Console.ReadLine();
     Console.WriteLine("Thank you");
 }
