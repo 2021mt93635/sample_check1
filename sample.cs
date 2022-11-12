@@ -8,6 +8,7 @@ void main(char[] args)
     // added comment by user devops user
     // added comments again by bits user
     // bits user
+    // devops second try
     Console.ReadLine();
     Console.WriteLine("Thank you");
 }
