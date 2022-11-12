@@ -5,7 +5,7 @@ void main(char[] args)
     int c = a + b;
     Console.WriteLine(c);
     Console.WriteLine("press any key to exit");
-    // added comment
+    // added comments again
     Console.ReadLine();
     Console.WriteLine("Thank you");
 }
