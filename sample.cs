@@ -6,4 +6,5 @@ void main(char[] args)
     Console.WriteLine(c);
     // added comment
     Console.ReadLine();
+    Console.WriteLine("Thank you");
 }
