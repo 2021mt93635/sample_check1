@@ -4,6 +4,7 @@ void main(char[] args)
     int b = 20;
     int c = a + b;
     Console.WriteLine(c);
+    Console.WriteLine("press any key to exit");
     // added comment
     Console.ReadLine();
     Console.WriteLine("Thank you");
